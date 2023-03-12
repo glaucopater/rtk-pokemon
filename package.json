@@ -1,8 +1,8 @@
 {
-  "name": "@examples-query-react/basic",
+  "name": "rtk-pokemon",
   "private": true,
   "version": "1.0.0",
-  "description": "getting-started-basic",
+  "description": "rtk and pokemon api with msw test server",
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
